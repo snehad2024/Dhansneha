@@ -2,3 +2,4 @@ name : realme
 version : 12.0
 ram : 4.0
 ram : 5.0
+version 5.7
